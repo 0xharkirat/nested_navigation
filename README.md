@@ -1,16 +1,14 @@
 # nested_navigation
 
-A new Flutter project.
 
-## Getting Started
++ This is an example app showing how to implement bottom navigation with nested routes using [GoRouter](https://pub.dev/packages/go_router).
 
-This project is a starting point for a Flutter application.
+![Nested Bottom Navigation Preview](/assets/nested-navigation-with-state.gif)
++ This also adds additional dummy login functionality.
++ This example is using flutter_riverpod as State management (but nothing much to do in this example).
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### It is based on this article:
+
++ [Flutter Bottom Navigation Bar with Stateful Nested Routes using GoRouter](https://codewithandrea.com/articles/flutter-bottom-navigation-bar-nested-routes-gorouter/)
